@@ -1,7 +1,7 @@
 # **Best practice to keep product documentation updated**
 
 ## **Overview**
-This document is aimed at detailing best practices in view of keeping product documentation updated for ongoing product changes.
+This document is aimed at detailing the best practice in view of keeping product documentation updated with ongoing product changes.
 
 ## **Product documentation: Best practice**
 Before explaining the best practice itself, it is useful to define what is product documentation. This kind of documentation describes the product that is being developed and provides instructions on how to perform different tasks with it. As a technical writer, first of all, it is important to choose a **software documentation tool** to deliver such documentation to your users; that tool can be **GitHub**.
