@@ -4,7 +4,7 @@
 This document is aimed at detailing the best practice in view of keeping product documentation updated with ongoing product changes.
 
 ## **Product documentation: Best practice**
-Before explaining the best practice itself, it is useful to define what is product documentation. This kind of documentation describes the product that is being developed and provides instructions on how to perform different tasks with it. As a technical writer, first of all, it is important to choose a **software documentation tool** to deliver such documentation to your users; that tool can be **GitHub**.
+Before explaining the best practice itself, it is useful to define what product documentation is. This kind of documentation describes the product that is being developed and provides instructions on how to perform different tasks with it. As a technical writer, first of all, it is important to choose a **software documentation tool** to deliver such documentation to your users; that tool can be **GitHub**.
 
 ### Version control
 As a product company, Qu Beyond is constantly releasing new features. Consequently, there is a need to iterate on versions of the product or features, and it is highly essential to keep track of the different versions regarding the documentation. This can even mean creating entirely new knowledge bases and maintaining several knowledge bases for different versions of the product. For that reason, as a technical writer, you should **use a tool which allows you to create different versions of your documentation and even switch between them in the editor, like Helpjuice, Salesforce Service Cloud, or other. Keeping track of your documentation tasks in collaboration tools like Jira, Trello or Azure DevOps (board) is also essential.** 
